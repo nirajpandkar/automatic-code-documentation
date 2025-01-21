@@ -1,10 +1,8 @@
 ## Core Components
 ### Pre-add hook script
-No changes.
 
 ### LLM Integration Service
 #### Diff Analysis Module (Identifying updates)
-No changes.
 
 #### Documentation Update Handler (Updating docs)
 Updated description:
